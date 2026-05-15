@@ -2,12 +2,12 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://npx plugins add vercel/vercel-plugin.vercel.app/api?username=Ramlakahn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ramlakahn's GitHub stats" />
+<img src="https://[npx plugins add vercel/vercel-plugin](https://github-readme-stats-theta-blond-67.vercel.app/).vercel.app/api?username=Ramlakahn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ramlakahn's GitHub stats" />
 </p>
 
 ### 🛠️ Languages & Tools
 <p align="left">
-<img src="https://npx plugins add vercel/vercel-plugin.vercel.app/api/top-langs/?username=Ramlakahn&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
+<img src="https://[npx plugins add vercel/vercel-plugin](https://github-readme-stats-theta-blond-67.vercel.app/).vercel.app/api/top-langs/?username=Ramlakahn&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
 </p>
 
 ### 🚀 Projects
