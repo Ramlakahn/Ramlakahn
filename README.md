@@ -1,16 +1,60 @@
 # Hi there, I'm Shivansh 👋
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://[npx plugins add vercel/vercel-plugin](https://github-readme-stats-theta-blond-67.vercel.app/).vercel.app/api?username=Ramlakahn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ramlakahn's GitHub stats" />
+<div align="center">
+  
+<!-- 1. DYNAMIC HEADER IMAGE -->
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Ramlakahn&fontSize=70&animation=fadeIn" width="100%" />
+
+<!-- 2. TYPING EFFECT SUBTITLE -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Graduate;Cybersecurity+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
+</a>
+
+<!-- 3. SOCIAL BADGES -->
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-### 🛠️ Languages & Tools
+---
+
+### ⚡ Quick Bio
+* 🎓 **CS Graduate** focused on building secure and scalable applications.
+* 🛡️ Deeply interested in **Penetration Testing** and **Linux System Administration**.
+* 🐍 Daily driver: **Python**, **Express.js**, and **Bash**.
+
+---
+
+### 🛠️ Tech Stack & Tools
 <p align="left">
-<img src="https://[npx plugins add vercel/vercel-plugin](https://github-readme-stats-theta-blond-67.vercel.app/).vercel.app/api/top-langs/?username=Ramlakahn&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
+  <img src="https://skillicons.dev/icons?i=python,js,express,nodejs,bootstrap,mongodb,kali,linux,git,docker,visualstudio,bash" />
 </p>
 
-### 🚀 Projects
-- **Predictive Policing System:** Crime analysis using K-Means clustering and ANN.
-- **Web Development:** Experience with Express.js, EJS, and Bootstrap.
-- **Cybersecurity:** Exploration in Kali Linux and network security.
+---
+
+### 📊 My GitHub Ecosystem
+<!-- This creates a grid layout for your cards -->
+<table border="0">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramlakahn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlakahn&layout=compact&theme=tokyonight&langs_count=6" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- STREAK CARD: Shows your consistency -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramlakahn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramlakahn&theme=tokyonight&hide_border=true&area=true" width="100%" />
+
+</div>
