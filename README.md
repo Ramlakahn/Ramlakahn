@@ -56,14 +56,8 @@
 
 <div align="center">
 
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7CF3FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cybersecurity+Researcher;Open+Source+Contributor" alt="Typing SVG" />
-</a>
-
-
-
-### 💻 Tech Stack (Click an icon to view Docs)
+---
+### 💻 Tech Stack 
 <!-- Each icon is wrapped in an 'a' tag to make it interactive -->
 <p align="center">
   <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=python" alt="python" /></a>
