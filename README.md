@@ -1,19 +1,15 @@
 # Hi there, I'm Shivansh 👋
 
 <div align="center">
-  
-<!-- 1. DYNAMIC HEADER IMAGE -->
+
 <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Ramlakahn&fontSize=70&animation=fadeIn" width="100%" />
 
-<!-- 2. TYPING EFFECT SUBTITLE -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Graduate;Cybersecurity+Enthusiast;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </a>
 
-<!-- 3. SOCIAL BADGES -->
 <p align="center">
-<!--<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>-->
-<a href="mailto:shivansh272004@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:shivansh272004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -25,10 +21,7 @@
 
 ---
 
-
-
 ### 📊 My GitHub Ecosystem
-<!-- This creates a grid layout for your cards -->
 <table border="0">
   <tr>
     <td>
@@ -42,7 +35,6 @@
 
 <br/>
 
-<!-- STREAK CARD: Shows your consistency -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramlakahn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
@@ -58,7 +50,6 @@
 
 ---
 ### 💻 Tech Stack 
-<!-- Each icon is wrapped in an 'a' tag to make it interactive -->
 <p align="center">
   <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=python" alt="python" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" /></a>
@@ -94,7 +85,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramlakahn&theme=tokyonight&hide_border=true&area=true" width="90%" />
   </a>
 </p>
-
 
 ### 🏆 GitHub Trophies
 <p align="center">
