@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Shivansh 👋
 
-<!--
-**Ramlakahn/Ramlakahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://npx plugins add vercel/vercel-plugin.vercel.app/api?username=Ramlakahn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ramlakahn's GitHub stats" />
+</p>
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Tools
+<p align="left">
+<img src="https://npx plugins add vercel/vercel-plugin.vercel.app/api/top-langs/?username=Ramlakahn&layout=compact&theme=tokyonight&hide=html,css" alt="Top Langs" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **Predictive Policing System:** Crime analysis using K-Means clustering and ANN.
+- **Web Development:** Experience with Express.js, EJS, and Bootstrap.
+- **Cybersecurity:** Exploration in Kali Linux and network security.
