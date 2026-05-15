@@ -25,12 +25,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,express,nodejs,bootstrap,mongodb,kali,linux,git,docker,visualstudio,bash" />
-</p>
 
----
 
 ### 📊 My GitHub Ecosystem
 <!-- This creates a grid layout for your cards -->
@@ -58,24 +53,15 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramlakahn&theme=tokyonight&hide_border=true&area=true" width="100%" />
 
 </div>
+
 <div align="center">
 
-<!-- 1. ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/render?type=kalo&color=auto&height=250&section=header&text=Ramlakahn&fontSize=80&animation=twinkling" width="100%" />
 
-<!-- 2. INTERACTIVE SUBTITLE -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7CF3FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Cybersecurity+Researcher;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
-<!-- 3. INTERACTIVE SOCIALS -->
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
----
 
 ### 💻 Tech Stack (Click an icon to view Docs)
 <!-- Each icon is wrapped in an 'a' tag to make it interactive -->
@@ -115,15 +101,6 @@
   </a>
 </p>
 
----
-
-### 🐍 Contribution Snake
-<!-- This is a fun visual that "eats" your contributions -->
-<p align="center">
-  <img src="https://github-user-contribution-snake.vercel.app/svg/Ramlakahn?color_snake=%234cc9f0&color_dots=%231a1b27,%23393b58,%23414868,%237aa2f7,%237ca1f3" alt="Snake" />
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 <p align="center">
