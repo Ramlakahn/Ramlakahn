@@ -25,10 +25,10 @@
 <table border="0">
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramlakahn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+      <img height="180em" src="https://https://github-readme-stats-theta-blond-67.vercel.app/api?username=Ramlakahn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlakahn&layout=compact&theme=tokyonight&langs_count=6" />
+      <img height="180em" src="https://[github-readme-stats.vercel.app](https://github-readme-stats-theta-blond-67.vercel.app/)/api/top-langs/?username=Ramlakahn&layout=compact&theme=tokyonight&langs_count=6" />
     </td>
   </tr>
 </table>
@@ -64,27 +64,7 @@
 
 ---
 
-### 📊 Engineering Metrics
-<table align="center" border="0">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramlakahn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramlakahn&layout=compact&theme=tokyonight&langs_count=6" />
-      </a>
-    </td>
-  </tr>
-</table>
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramlakahn&theme=tokyonight&hide_border=true&area=true" width="90%" />
-  </a>
-</p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
